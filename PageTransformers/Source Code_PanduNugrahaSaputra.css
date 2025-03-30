@@ -1,0 +1,214 @@
+/* Reset basic styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('https://i0.wp.com/dianisa.com/wp-content/uploads/2022/04/Background-3D-HD-9.jpg?resize=1000%2C563&ssl=1');
+
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+header section#Header {
+    display: flex;
+    align-items: center;
+}
+
+header section#Header img {
+    width: 60px;
+    height: auto;
+    margin-right: 10px;
+}
+
+header h1 {
+    font-size: 25px;
+}
+
+/* Movie Media Section */
+#MMedia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    background-color: #2d2d2f;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+ 
+
+#MMedia img  {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+
+#MMedia h2 {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+#MMedia p {
+    margin: 5px auto;
+    
+}
+
+.stars {
+    font-size: 25px;
+    color: gold; /* Mengubah warna bintang menjadi kuning */
+}
+
+#MMedia .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0015;
+    color: #fff;    
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+#MMedia .button:hover {
+    background-color: #1bb300;
+}
+
+/* Movie Review Section */
+#Riviw {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+    background-color: #2d2d2f;
+    border-radius: 10px;
+
+}
+
+#Riviw h3 {
+    margin-bottom: 10px;
+}
+
+#Riviw p {
+    margin-bottom: 10px;
+}
+
+#Riviw table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#Riviw table th,
+#Riviw table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #555;
+}
+
+#Riviw table th {
+    color: #ffffff;
+}
+#Riviw table td a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+/* Top Billed Cast */
+#cast {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+    background-color: #2d2d2f;
+    border-radius: 10px;
+}
+
+#cast h3 {
+    margin-bottom: 10px;
+}
+
+#cast ul {
+
+    display: flex;
+    /* flex-wrap: wrap; */
+    list-style: none;
+    gap: 10px; 
+    /* jarak */
+}
+
+#cast ul li {
+    flex: 1 1 150px;
+    text-align: center;
+}
+
+#cast ul li img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+#cast ul li p {
+    font-size: 15px;
+    color: #fff;
+}
+
+/* Recommendations Section */
+#recommendations {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #fff;
+    background-color: #2d2d2f;
+    border-radius: 10px;
+}
+
+#recommendations h3 {
+    margin-bottom: 10px;
+}
+
+#recommendations ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style:none;
+    gap: 20px;
+}
+
+#recommendations ul li {
+    flex: 1 1 200px;
+    text-align: center;
+}
+
+#recommendations ul li img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    color: #fff;
+    background-color: #2d2d2f;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer p {
+    font-size: 15px;
+}
