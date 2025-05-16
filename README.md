@@ -37,11 +37,11 @@ Berikut adalah tangkapan layar dari struktur folder proyek:
 ├── style.css
 ```
 
-### Preview
-![Landingpage](preview/Landingpage.jpg)
-![ListCinema](preview/ListCinema.jpg)
-![profilepage](preview/profilepage.jpg)
-![transformerpage](preview/transformerpage.jpg)
+### 📸 Preview
+![Landingpage](preview/Landingpage.png)
+![ListCinema](preview/ListCinema.png)
+![profilepage](preview/profilepage.png)
+![transformerpage](preview/transformerpage.png)
 
 ## 🧑‍💻 Kontribusi
 Kontribusi sangat terbuka! Silakan fork repo ini dan ajukan pull request jika kamu ingin menambahkan fitur baru atau meningkatkan tampilan.
