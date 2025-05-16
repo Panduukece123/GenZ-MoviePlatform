@@ -1,6 +1,7 @@
 # 🎬 Gen Z Movie Platform
-GenZ Movie Platform adalah sebuah aplikasiWebsite cinema platform sederhana yang memungkinkan pengguna menjelajahi dan mencari film populer. Tujuan utama proyek ini adalah memberikan pengalaman antarmuka pengguna yang responsif dan menarik untuk menampilkan data film
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+GenZ Movie Platform adalah sebuah aplikasiWebsite cinema platform sederhana yang memungkinkan pengguna menjelajahi dan mencari film populer. Tujuan utama proyek ini adalah memberikan pengalaman antarmuka pengguna yang responsif dan menarik untuk menampilkan data film .
+
+
 ## ✨ Fitur Utama
 - Tampilan antarmuka modern dengan navigasi yang mudah.
 - Daftar film dengan efek hover interaktif.
@@ -13,7 +14,7 @@ Aplikasi ini dibangun dengan menggunakan :
 - HTML5 – Struktur dasar halaman.
 - CSS3 – Styling dan efek visual responsif.
 - JavaScript (Vanilla JS) – Logika interaktif seperti toggle mode dan efek klik.
-
+### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## 📸 Preview
 
 Berikut adalah tangkapan layar dari struktur folder proyek:
@@ -63,8 +64,10 @@ cd genz-movie-platform
 
 Pandu Nugraha Saputra – Front-End Developer
 
+
 🎥 Selamat menikmati Gen Z Movie Platform! Proyek kecil untuk pengalaman film yang menyenangkan.
 
 ## 📄 Lisensi
 
 Proyek ini dirilis di bawah lisensi MIT.Silakan digunakan, dimodifikasi, dan disebarluaskan dengan tetap mencantumkan kredit.
+
