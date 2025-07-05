@@ -90,6 +90,7 @@ body {
 }
 
 .featured-content {
+  
   height: 50vh;
   padding: 50px;
   margin-bottom: 100px;
@@ -108,6 +109,7 @@ body {
 }
 
 .featured-button {
+  text-align: center;
   text-decoration: none;
   background-color: #4dbf00;
   color: white;
