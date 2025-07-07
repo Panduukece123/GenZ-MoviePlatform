@@ -1,4 +1,4 @@
-# 🎬 Gen Z Movie Platform
+# 🎬 Generazation Movie Platform
 GenZ Movie Platform adalah sebuah aplikasiWebsite cinema platform sederhana yang memungkinkan pengguna menjelajahi dan mencari film populer. Tujuan utama proyek ini adalah memberikan pengalaman antarmuka pengguna yang responsif dan menarik untuk menampilkan data film .
 
 
